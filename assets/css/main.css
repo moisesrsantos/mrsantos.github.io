@@ -1637,6 +1637,11 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		.image.box {
+			width: auto;
+		}
+
+
 		.image.featured {
 			display: block;
 			width: 100%;
